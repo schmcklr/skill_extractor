@@ -1,7 +1,4 @@
 # Job Skills Analysis for Business Process Management (BPM) [![Under Development](https://img.shields.io/badge/status-Under%20Development-yellow.svg?color=yellow)](https://img.shields.io) [![Google Colab Notebook](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=google-colab)](https://colab.research.google.com/)
-``
-
-
 
 
 ## Introduction
