@@ -3,7 +3,7 @@
 The objective of this project is to analyze job descriptions in order to identify the skills required for these positions. The goal is to gain an understanding of how skill requirements have evolved over time.
 
 ## Methodology
-The project uses job listings data provided by the platform jobTeaser. It includes a natural language processing component to extract relevant information from the job descriptions.
+The project uses job listings data provided by the platform JobTeaser. The project includes translation, natural language processing, and topic modeling techniques to extract relevant information from the job descriptions.
 
 ## Implementation
 The project is implemented in Python and makes use of various libraries such as pandas, nltk, re, requests, numpy, gensim, odfpy, IPython, BeautifulSoup, googletrans, translatepy, langdetect, pyldavis, LdaOverTime and matplotlib.
