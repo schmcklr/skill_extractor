@@ -8,7 +8,7 @@ The project uses job listings data provided by the platform jobTeaser. It includ
 ## Implementation
 The project is implemented in Python and makes use of various libraries such as pandas, nltk, re, requests, numpy, gensim, odfpy, IPython, BeautifulSoup, googletrans, translatepy, langdetect, pyldavis, LdaOverTime and matplotlib.
 
-## Structure
+## Project Structure
 
 The project is divided into three parts:
 
@@ -26,7 +26,6 @@ The project is divided into three parts:
 
   1. Static LDA Topic Modeling & Skill-Count Analysis
   2. Dynamic LDA Topic Modeling
-
 
 ## Getting Started
 - Please open the notebook in Google Colab and execute the cells sequentially.
