@@ -14,7 +14,7 @@ The project is implemented in Python and makes use of various libraries such as 
 
 The project is divided into three parts:
 
-- #Part 1: General Preprocessing and Translation
+#- Part 1: General Preprocessing and Translation
 
 Designed to filter out duplicate job postings, translate non-English job postings into English language, and perform initial general preprocessing. The results will be outputted in an Excel file, which can be used for further analysis.
 
