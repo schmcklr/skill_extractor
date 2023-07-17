@@ -28,4 +28,4 @@ The project is divided into three parts:
   2. Dynamic LDA Topic Modeling
 
 ## Getting Started
-- Please open the notebook in Google Colab and execute the cells sequentially. Start with Part 1, followed by Part 2 & Part 3. Each part will generate an Excel document that serves as the input for the subsequent part, allowing for a smooth transition and continuity of the analysis.
+- Please open the notebook in Google Colab and execute the cells sequentially. Start with Part 1, followed by Part 2 & Part 3. Each part, with the exception of Part 3, will generate an Excel document that serves as input for the subsequent part, ensuring a seamless transition and maintaining continuity in the analysis.
