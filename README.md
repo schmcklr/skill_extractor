@@ -1,6 +1,6 @@
 # Job Skills Analysis [![Under Development](https://img.shields.io/badge/status-Under%20Development-yellow.svg?color=yellow)](https://img.shields.io) [![Google Colab Notebook](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=google-colab)](https://colab.research.google.com/)
 
-The objective of this project is to analyze job descriptions in order to identify the skills required for these positions. The goal is to gain an understanding of how skill requirements have evolved over time.
+The objective of this project is to automatically extract required skills from job descriptions. The goal is to gain an understanding of how skill requirements have evolved over time.
 
 ## Methodology
 The project uses job listings data provided by the platform JobTeaser. The project includes translation, natural language processing, and topic modeling techniques to extract relevant information from the job descriptions.
