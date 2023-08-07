@@ -1,6 +1,6 @@
 # Job Skills Analysis [![Under Development](https://img.shields.io/badge/status-Under%20Development-yellow.svg?color=yellow)](https://img.shields.io) [![Google Colab Notebook](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=google-colab)](https://colab.research.google.com/)
 
-The objective of this project is to automatically extract required skills from job descriptions. The goal is to gain an understanding of how skill requirements have evolved over time.
+The objective of this project is to automatically extract required skills from job advertisements. The goal is to gain an understanding of how skill requirements have evolved over time.
 
 ## Methodology
 The project uses job listings data provided by the platform JobTeaser. The project includes translation, natural language processing, and topic modeling techniques to extract relevant information from the job descriptions.
@@ -18,7 +18,7 @@ The project is divided into three parts:
 
 - **Part 2: Skill Section Extraction and Preprocessing**
 
-  Systematically extracts the qualification section from English job ads by scouring the HTML source code. It identifies key phrases and specific patterns, derived from the analysis of over 1500 job ads. The extracted qualifications, along with the remaining job ad data, are compiled in a data frame and exported to an Excel file for further analysis. Ads where the qualification section couldn't be extracted are automatically excluded from the export.
+  The system systematically extracts the qualification section from English job advertisements by scanning the HTML source code. It identifies key phrases and specific patterns, derived from the analysis of over 1500 job ads, to accurately pinpoint the skill section within a job description. The extracted qualifications, along with the remaining job ad data, are compiled in a data frame and exported to an Excel file for further analysis. Ads where the qualification section couldn't be extracted are automatically excluded from the export.
 
 - **Part 3: Skill Analysis**
 
