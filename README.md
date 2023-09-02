@@ -16,11 +16,11 @@ The project is divided into three parts:
 
   Designed to filter out duplicate job postings, translate non-English job postings into English language, and perform initial general preprocessing. The results will be outputted in an Excel file, which can be used for further analysis.
 
-- **Part 2: Skill Section Extraction and Preprocessing**
+- **Part 2: Skill Section Extraction**
 
   The system systematically extracts the qualification section from English job advertisements by scanning the HTML source code. It identifies key phrases and specific patterns, derived from the analysis of over 1500 job ads, to accurately pinpoint the skill section within a job description. The extracted qualifications, along with the remaining job ad data, are compiled in a data frame and exported to an Excel file for further analysis. Ads where the qualification section couldn't be extracted are automatically excluded from the export.
 
-- **Part 3: Skill Analysis**
+- **Part 3: Text Preprocessing and Analysis**
 
   Offers a variety of features designed to track and analyze the progression of desired job qualifications over time. The program should be executed in Google Colab with GPU acceleration enabled. There are two implemented options for this:
 
