@@ -24,8 +24,9 @@ The project is divided into three parts:
 
   Offers a variety of features designed to track and analyze the progression of desired job qualifications over time. The program should be executed in Google Colab with GPU acceleration enabled. There are two implemented options for this:
 
-  1. Static LDA Topic Modeling & Skill-Count Analysis
-  2. Dynamic Topic Modeling
+  1. Frequency Analysis
+  2. LDA Topic Modeling
+  3. Dynamic Topic Modeling
 
 ## Getting Started
 - Please open the notebook in Google Colab and execute the cells sequentially. Start with Part 1, followed by Part 2 & Part 3. Each part, with the exception of Part 3, will generate an Excel document that serves as input for the subsequent part, ensuring a seamless transition and maintaining continuity in the analysis.
