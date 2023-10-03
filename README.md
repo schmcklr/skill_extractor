@@ -1,4 +1,4 @@
-# Job Skills Analysis [![Under Development](https://img.shields.io/badge/status-Under%20Development-yellow.svg?color=yellow)](https://img.shields.io) [![Google Colab Notebook](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=google-colab)](https://colab.research.google.com/)
+# Job Skills Analysis [![Google Colab Notebook](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=google-colab)](https://colab.research.google.com/)
 
 The objective of this project is to automatically extract required skills from job advertisements. The goal is to gain an understanding of how skill requirements have evolved over time.
 
