@@ -6,7 +6,7 @@ The objective of this project is to automatically extract required skills from j
 The project uses job listings data provided by the platform JobTeaser. The project includes translation, natural language processing, and topic modeling techniques to extract relevant information from the job descriptions.
 
 ## Implementation
-The project is implemented in Python and makes use of various libraries such as pandas, nltk, langdetect, translatepy, BeautifulSoup, re, IPython, requests, pyldavis, odfpy, matplotlib, spacy, seaborn, wordcloud, ipywidgets, scikit-learn, gensim and lda-over-time.
+The project is implemented in Python and makes use of various libraries such as pandas, nltk, langdetect, translatepy, BeautifulSoup, re, IPython, requests, pyldavis, odfpy, matplotlib, spacy, seaborn, wordcloud, ipywidgets, scikit-learn, tomotopy, gensim and lda-over-time.
 
 ## Project Structure
 
