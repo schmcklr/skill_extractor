@@ -22,7 +22,7 @@ The project is divided into three parts:
 
 - **Part III: Text Preprocessing and Skill Analysis**
 
-  Offers a variety of features designed to track and analyze the progression of desired job qualifications over time. The program should be executed in Google Colab with GPU acceleration enabled. There are two implemented options for this:
+  Offers a variety of features designed to track and analyze the progression of desired job qualifications over time. The program should be executed in Google Colab. There are three implemented analysis options for this:
 
   1. Frequency Analysis
   2. LDA Topic Modeling
